@@ -43,7 +43,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Rafael A. G. N. - [@yourusername](https://github.com/rafael-a-g-n)
+Rafael A. G. N. - [@RAGN](https://github.com/rafael-a-g-n)
 
 Project Link: [https://github.com/rafael-a-g-n/Fotomatic](https://github.com/rafael-a-g-n/Fotomatic)
 
