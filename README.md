@@ -7,30 +7,11 @@ Welcome to the **Fotomatic** repository! This project showcases a stunning photo
 - **CSS** - For stylish and responsive designs. 🎨 (61.1%)
 - **HTML** - The backbone of our content. 📄 (38.9%)
 
-## 🔧 Skills Demonstrated
+## 🛠 Skills Demonstrated
 
 - **Responsive Design**: Ensuring the site looks great on all devices. 📱💻
-- **Semantic HTML**: Writing clean and meaningful HTML. 🧼
-- **CSS Grid & Flexbox**: Mastery of CSS layout techniques for flexible and responsive layouts. 📐
-
-## 📂 Project Structure
-
-Here's a quick overview of the project's structure:
-
-├── index.html
-
-├── gallery.html
-
-├── contact.html
-
-└── css
-
-├── style.css
-
-├── gallery.css
-
-└── contact.css
-
+- **Semantic HTML**: Writing clean and meaningful HTML. 📝
+- **CSS Flexbox**: Mastery of CSS layout techniques for flexible and responsive layouts. 📐
 
 ## 🎉 Getting Started
 
